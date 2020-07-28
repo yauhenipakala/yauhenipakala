@@ -8,7 +8,7 @@ I'm a Software Engineer who is passionate about cross-platform development and o
 - Desktop application development using **UWP**
 - Front-end development using **Vanila JavaScript**
 - Backend development using **ASP.NET Core, Node.js, Laravel**
-- CD/CI using **GitHub Actions, Azure DevOps**
+- CI/CD using **GitHub Actions, Azure DevOps**
 
 ### Some Statistics About Me
 
