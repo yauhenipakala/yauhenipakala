@@ -12,7 +12,7 @@ I'm a Software Engineer who is passionate about cross-platform development and o
 
 ### Some Statistics About Me
 
-![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true)
+![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40)
 
 
 <!--
