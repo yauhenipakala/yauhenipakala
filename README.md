@@ -4,11 +4,13 @@ I'm a Software Engineer who is passionate about cross-platform development and o
 
 ### ⚡ Technologies
 
-- Mobile application development using **Xamarin Android / Xamarin iOS**
+- Mobile application development using **Xamarin, Flutter**
 - Desktop application development using **UWP**
 - Front-end development using **Vanila JavaScript**
 - Backend development using **ASP.NET Core, Node.js, Laravel**
 - CI/CD using **GitHub Actions, Azure DevOps**
+- Databases: **MongoDB, MySQL, SQLite**
+- Serverless: **Firebase**
 
 ### Some Statistics About Me
 
