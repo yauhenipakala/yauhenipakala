@@ -1,8 +1,8 @@
-<h2 align="center">Hello there! My name is Yauheni Pakala. 👋</h2>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-I'm a Software Engineer who is passionate about cross-platform development and open source.
+I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform development and open source.
 
-### ⚡ Technologies
+### 🚀 Technologies
 
 - Mobile application development using **Xamarin, Flutter**
 - Desktop application development using **UWP**
@@ -10,24 +10,12 @@ I'm a Software Engineer who is passionate about cross-platform development and o
 - Backend development using **ASP.NET Core, Node.js, Laravel**
 - CI/CD using **GitHub Actions, Azure DevOps**
 - Databases: **MongoDB, MySQL, SQLite**
-- Serverless: **Firebase**
+- BaaS: **Firebase**
 
 ### Some Statistics About Me
 
 ![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40)
 
+### Links
 
-<!--
-**wcoder/wcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yauhenipakala/)
