@@ -14,7 +14,7 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 
 ### Some Statistics About Me
 
-![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40)
+![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40) ![wcoder gitgub streak](https://github-readme-streak-stats.herokuapp.com?user=wcoder)
 
 ### Links
 
