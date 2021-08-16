@@ -12,9 +12,10 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 - Databases: **MongoDB, MySQL, SQLite**
 - BaaS: **Firebase**
 
-### Some Statistics About Me
+### Statistics
 
-![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40) ![wcoder gitgub streak](https://github-readme-streak-stats.herokuapp.com?user=wcoder)
+![wcoder github stats](https://github-readme-stats.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40)
+<!-- ![wcoder gitgub streak](https://github-readme-streak-stats.herokuapp.com?user=wcoder) -->
 
 ### Links
 
