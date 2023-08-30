@@ -4,10 +4,9 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 
 ### 🚀 Technologies
 
-- Mobile application development using **Xamarin/.NET for Mobile, Flutter, SwiftUI**
-- Desktop application development using **UWP**
-- Front-end development using **Vanila JavaScript, TypeScript**
-- Backend development using **.NET, Node.js, PHP**
+- Mobile application development using **Flutter**, **.NET for Mobile (Xamarin)**
+- Front-end development using **TypeScript**, **Vanila JavaScript**
+- Backend development using **.NET**, **Node.js**
 - CI/CD using **GitHub Actions, Azure DevOps**
 - Databases: **MongoDB, MySQL, SQLite**
 - BaaS: **Firebase**
