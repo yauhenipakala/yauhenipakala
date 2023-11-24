@@ -19,6 +19,3 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 ### Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yauhenipakala/)
-
-### Badges
-[![An image of @wcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wcoder)](https://holopin.io/@wcoder)
