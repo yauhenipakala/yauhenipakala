@@ -13,8 +13,8 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 
 ### Statistics
 
-![wcoder github stats](https://github-readme-stats-wcoder.vercel.app/api?username=wcoder&show_icons=true&theme=vue&count_private=true&bg_color=FFFFFF40&invalidatecache=1)
-<!-- ![wcoder gitgub streak](https://github-readme-streak-stats.herokuapp.com?user=wcoder) -->
+[![Yauheni Github Stats](https://github-readme-stats-wcoder.vercel.app/api?username=wcoder&show_icons=true&theme=transparent&count_private=true&invalidatecache=1&line_height=24&title_color=0969da&text_color=59636e)](https://github.com/wcoder)
+[![Top Langs](https://github-readme-stats-wcoder.vercel.app/api/top-langs/?username=wcoder&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3&title_color=0969da&text_color=59636e&hide=roff,smarty,hack,html,css,js,scss,powershell,batchfile)](https://github.com/wcoder?tab=repositories&sort=stargazers)
 
 ### Links
 
