@@ -13,8 +13,8 @@ I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform d
 
 ### Statistics
 
-[![Yauheni Github Stats](https://github-readme-stats-wcoder.vercel.app/api?username=wcoder&show_icons=true&theme=transparent&count_private=true&invalidatecache=1&line_height=24&title_color=0969da&text_color=59636e)](https://github.com/wcoder)
-[![Top Langs](https://github-readme-stats-wcoder.vercel.app/api/top-langs/?username=wcoder&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3&title_color=0969da&text_color=59636e&hide=roff,smarty,hack,html,css,js,scss,powershell,batchfile)](https://github.com/wcoder?tab=repositories&sort=stargazers)
+[![Yauheni Github Stats](https://github-readme-stats-wcoder.vercel.app/api?username=yauhenipakala&show_icons=true&theme=transparent&count_private=true&invalidatecache=1&line_height=24&title_color=0969da&text_color=59636e)](https://github.com/yauhenipakala)
+[![Top Langs](https://github-readme-stats-wcoder.vercel.app/api/top-langs/?username=yauhenipakala&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3&title_color=0969da&text_color=59636e&hide=roff,smarty,hack,html,css,js,scss,powershell,batchfile)](https://github.com/yauhenipakala?tab=repositories&sort=stargazers)
 
 ### Links
 
