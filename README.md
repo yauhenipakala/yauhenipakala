@@ -1,15 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-I'm Yauheni Pakala, a Software Engineer who is passionate about cross-platform development and open source.
-
-### 🚀 Technologies
-
-- Mobile application development using **Flutter**, **.NET for Mobile (Xamarin)**
-- Front-end development using **TypeScript**, **Vanila JavaScript**
-- Backend development using **.NET**, **Node.js**
-- CI/CD using **GitHub Actions, Azure DevOps**
-- Databases: **MongoDB, MySQL, SQLite**
-- BaaS: **Firebase**
+I'm Yauheni Pakala, a software engineer who is passionate about cross-platform development and open source.
 
 ### Statistics
 
